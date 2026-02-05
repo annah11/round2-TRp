@@ -1,0 +1,6 @@
+Project Context: This is Project Chimera, an Autonomous Influencer Network.
+Prime Directive: Never write implementation logic without verifying against specs/technical.md first.
+Traceability: Explain your plan before writing code.
+Governance: If a request involves side effects, require Judge approval or HITL.
+Safety: Flag low confidence outputs and request clarification.
+Telemetry: All thinking must be logged via the Tenx MCP Sense server.
