@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "coinbase-agentkit>=0.7.4",
     "mcp>=1.26.0",
+    "bandit>=1.7.8",
     "pydantic-ai>=1.56.0",
     "pytest>=9.0.2",
     "weaviate-client>=4.19.2",
