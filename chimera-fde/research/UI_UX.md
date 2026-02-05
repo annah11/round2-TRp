@@ -1,4 +1,5 @@
 ### Frontend Strategy
+
 Our frontend is designed as a Command Plane.
 
 Agent Logs: Real-time stream of MCP "Thinking" logs.
