@@ -47,3 +47,25 @@ It will host:
 2. Implement the first agent workflow
 3. Introduce evaluation and governance logic
 4. Iterate toward a pilot-ready system
+
+---
+
+## Rubric (Grading Features)
+
+- Smart — / 5
+- DB & Data Management — / 5
+- Backend — / 5
+- Frontend — / 5
+- Rule Creation (Agent Intent) — / 5
+- Security — / 5
+- Acceptance Criteria — / 5
+- MCP Configuration — / 5
+- Agent Skills Structure — / 5
+- Agent Rules File — / 5
+- Containerization — / 5
+- Automation (Task Runner) — / 5
+- CI/CD & Governance Pipeline — / 5
+- Testing (TDD) — / 5
+- Repository Documentation — / 5
+- Agentic Trajectory & Growth — / 5
+- Commit Progression & Git Hygiene — / 5
