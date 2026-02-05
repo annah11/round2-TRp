@@ -14,7 +14,10 @@
     "task_id": { "type": "string", "minLength": 1 },
     "agent_role": { "type": "string", "enum": ["Planner", "Worker", "Judge"] },
     "payload": { "type": "object", "additionalProperties": true },
-    "status": { "type": "string", "enum": ["pending", "in_progress", "review", "complete"] }
+    "status": {
+      "type": "string",
+      "enum": ["pending", "in_progress", "review", "complete"]
+    }
   }
 }
 ```
@@ -39,5 +42,6 @@ Exact output for the TrendFetcher skill (array of items):
   }
 ]
 ```
+
 - System must support 1,000 concurrent workers.
 - Task latency for high-priority replies: $\leq 10s$ (excluding HITL).

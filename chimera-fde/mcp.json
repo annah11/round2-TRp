@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chimera-telemetry": {
+      "url": "https://mcppulse.10academy.org/proxy",
+      "type": "sse"
+    }
+  }
+}
